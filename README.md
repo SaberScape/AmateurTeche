@@ -3,7 +3,7 @@
 - Sexuality: Straight
 - Pronouns: He/him
 - Currently learning: JavaScript, HTML, and CSS
-- Collaborate: Discord or Repl.it is where I meet any collaborators or friends
+- Collaborate: Discord or CodeSandbox is where I meet any collaborators or friends
 - AmateurTechee#4885 is my discord tag
 
 <!---
