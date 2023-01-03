@@ -1,7 +1,7 @@
 - Name: Spencer
 - Interests: Creating new and creative programs for fun ig
 - Sexuality: Straight
-- Pronouns: He/him
+- Pronouns: He/him Also can be Truck/self
 - Currently learning: JavaScript, HTML, and CSS
 - Collaborate: Discord or CodeSandbox is where I meet any collaborators or friends
 - AmateurTechee#4885 is my discord tag
